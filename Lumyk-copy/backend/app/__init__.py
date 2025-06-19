@@ -106,9 +106,11 @@ def create_app():
         
     from flask_restx import Resource
 
-    @app.route('/')
-    def home():
-        return {"mensagem": "Backend online!"}
+    # rotinha básica para saúde do serviço (render, ping, browser)
+    @app.route("/", methods=["GET"])
+    def health_check():
+        return {"mensagem": "Backend online!"}, 200
+
 
 
     return app
