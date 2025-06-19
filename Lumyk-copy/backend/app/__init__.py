@@ -104,14 +104,20 @@ def create_app():
     
     
         
-    from flask_restx import Resource
+    from flask_restx import Namespace, Resource
 
-    @api.route("/")
-    class HealthCheck(Resource):
-        def get(self):
-            return {"mensagem": "Backend online!"}, 200
+    # Namespace vazio só pra raiz
+    health_ns = Namespace('', description='Health check')
+
+    @app.route("/", methods=["GET"])
+    def health_check():
+        return {"mensagem": "Backend online!"}, 200
 
 
+    print("\n--- Rotas registradas: ---")
+    for rule in app.url_map.iter_rules():
+        print(rule)
+    print("--------------------------\n")
 
     return app
 
