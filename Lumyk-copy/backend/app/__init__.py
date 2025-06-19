@@ -103,10 +103,15 @@ def create_app():
     api.add_namespace(itemPedido, path='/item-pedido')
     
     
-    
-    @app.route("/")
-    def home():
-        return "Backend online! 🌟"
+        
+    from flask_restx import Resource
+
+    class HomeResource(Resource):
+        def get(self):
+            return {"mensagem": "Backend online! 🌟"}
+
+    api.add_resource(HomeResource, "/")
+
     
     return app
 
