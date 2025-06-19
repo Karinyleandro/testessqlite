@@ -106,10 +106,11 @@ def create_app():
         
     from flask_restx import Resource
 
-    @api.route('/')
+    @api.route("/")
     class HealthCheck(Resource):
         def get(self):
-            return {"mensagem": "Backend online!"}
+            return {"mensagem": "Backend online!"}, 200
+
 
 
     return app
