@@ -106,12 +106,9 @@ def create_app():
         
     from flask_restx import Resource
 
-    @api.route('/')
-    class HomeResource(usuario.Resource):  # ou Resource se você já importou direto
-        def get(self):
-            return {"mensagem": "Backend online!"}
+    @app.route('/')
+    def index():
+        return {"mensagem": "Backend online!"}
 
-
-    
     return app
 
