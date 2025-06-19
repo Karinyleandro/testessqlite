@@ -102,4 +102,11 @@ def create_app():
     api.add_namespace(itemCarrinho, path='/item-carrinho')
     api.add_namespace(itemPedido, path='/item-pedido')
     
+    
+    
+    @app.route("/")
+    def home():
+        return "Backend online! 🌟"
+    
     return app
+
