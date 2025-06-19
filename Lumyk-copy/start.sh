@@ -7,4 +7,4 @@ echo "Rodando seeders..."
 PYTHONPATH=backend python -m backend.app.db.seeders.seeder
 
 echo "Iniciando o servidor Flask..."
-exec gunicorn -b 0.0.0.0:10000 run:app
+gunicorn -b 0.0.0.0:10000 manage:app
