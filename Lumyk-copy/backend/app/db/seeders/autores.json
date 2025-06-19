@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Clarice Lispector",
+        "biografia": "Clarice Lispector foi uma escritora e jornalista brasileira, considerada uma das mais importantes autoras da literatura nacional. Conhecida por sua prosa introspectiva e inovadora, escreveu obras como 'A Hora da Estrela' e 'A Paixão Segundo G.H.'.",
+        "foto": "/static/image/autor/Clarice Lispector.jpg"
+    },
+    {
+        "nome": "Colleen Hoover",
+        "biografia": "Colleen Hoover é uma escritora norte-americana de romances contemporâneos e jovens adultos. Seus livros, como 'É Assim Que Acaba' e 'Verity', conquistaram leitores ao redor do mundo com histórias emocionantes e envolventes.",
+        "foto": "/static/image/autor/Colleen Hoover.jpg"
+    },
+    {
+        "nome": "Victoria Aveyard",
+        "biografia": "Victoria Aveyard é uma escritora norte-americana, conhecida pela série best-seller 'A Rainha Vermelha'. Suas obras mesclam fantasia, distopia e conflitos políticos, explorando desigualdade social, poder e resistência através de personagens complexos e envolventes.",
+        "foto": "/static/image/autor/Victoria Aveyard.jpg"
+    },
+    {
+        "nome": "Jane Austen",
+        "biografia": "Jane Austen foi uma romancista britânica do século XIX, autora de clássicos da literatura como 'Orgulho e Preconceito' e 'Razão e Sensibilidade'. Suas obras são marcadas pela crítica social e pelo retrato da sociedade inglesa da época.",
+        "foto": "/static/image/autor/Jane Austen.jpg"
+    },
+    {
+        "nome": "Lynn Painter",
+        "biografia": "Lynn Painter é uma autora norte-americana de romances contemporâneos e jovens adultos. Conhecida por livros como 'Melhor do Que Nos Filmes', suas histórias misturam romance, humor e emoções genuínas.",
+        "foto": "/static/image/autor/Lynn Painter.jpg"
+    },
+    {
+        "nome": "Rick Riordan",
+        "biografia": "Rick Riordan é um escritor norte-americano famoso por suas séries de fantasia baseadas na mitologia, como 'Percy Jackson e os Olimpianos' e 'Os Heróis do Olimpo'. Seus livros conquistaram milhões de leitores ao redor do mundo.",
+        "foto": "/static/image/autor/Rick Riordan.jpg"
+    },
+    {
+        "nome": "George R.R. Martin",
+        "biografia": "George R.R. Martin é um escritor e roteirista norte-americano, famoso por sua série de fantasia épica 'As Crônicas de Gelo e Fogo', que inspirou a série de TV 'Game of Thrones'. Seus livros são conhecidos por sua complexidade, tramas políticas e personagens marcantes.",
+        "foto": "/static/image/autor/George RR MArtin.jpg"
+    }
+]

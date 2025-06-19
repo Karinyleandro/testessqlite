@@ -1,0 +1,407 @@
+[
+    {
+    "id_genero": "Romance",
+    "id_autor": "Clarice Lispector",
+    "foto": "/static/image/livros/A Paixão Segundo GH.jpg",
+    "sinopse": "A Paixão Segundo G.H. é um romance de Clarice Lispector que narra a jornada existencial e introspectiva de uma mulher da alta classe média do Rio de Janeiro. Após despedir sua empregada, ela entra no quarto de serviço e encontra uma barata, o que desencadeia uma profunda crise de identidade e reflexão sobre a natureza humana.",
+    "estoque": "10",
+    "preco": "49.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "A Paixão Segundo G.H."
+},
+
+{
+    "id_genero": "Romance",
+    "id_autor": "Clarice Lispector",
+    "foto": "/static/image/livros/A Hora da Estrela.jpg",
+    "sinopse": "A Hora da Estrela é um dos romances mais conhecidos de Clarice Lispector. A história acompanha Macabéa, uma jovem nordestina que vive no Rio de Janeiro, enfrentando uma vida de pobreza e alienação. Narrado por Rodrigo S.M., o livro explora temas como identidade, solidão e destino.",
+    "estoque": "15",
+    "preco": "39.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "A Hora da Estrela"
+},
+
+{
+    "id_genero": "Romance",
+    "id_autor": "Clarice Lispector",
+    "foto": "/static/image/livros/Um Sopro de Vida.jpg",
+    "sinopse": "Um Sopro de Vida é um romance póstumo de Clarice Lispector, composto por fragmentos que exploram a relação entre um autor e sua criação, Ângela. A obra mergulha em questões existenciais, filosóficas e na busca pelo significado da escrita e da vida.",
+    "estoque": "12",
+    "preco": "45.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Um Sopro de Vida"
+},
+
+{
+    "id_genero": "Romance",
+    "id_autor": "Clarice Lispector",
+    "foto": "/static/image/livros/Laços de Família.jpg",
+    "sinopse": "Laços de Família é uma coletânea de contos de Clarice Lispector que aborda o cotidiano e as tensões familiares. As histórias exploram as angústias e descobertas internas das personagens, revelando os contrastes entre a aparente normalidade e o inesperado.",
+    "estoque": "18",
+    "preco": "42.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Laços de Família"
+},
+
+{
+    "id_genero": "Romance",
+    "id_autor": "Clarice Lispector",
+    "foto": "/static/image/livros/Agua Viva.jpg",
+    "sinopse": "Água Viva é uma obra singular de Clarice Lispector, que mistura prosa e fluxo de consciência. Sem uma narrativa linear, o livro apresenta reflexões sobre a existência, o tempo e a arte, revelando a subjetividade e a intensidade da autora.",
+    "estoque": "14",
+    "preco": "47.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Água Viva"
+},
+
+{
+    "id_genero": "Fantasia Jovem Adulta",
+    "id_autor": "Colleen Hoover",
+    "foto": "/static/image/livros/E Assim Que Acaba.jpg",
+    "sinopse": "É Assim Que Acaba, de Colleen Hoover, conta a história de Lily Bloom, uma jovem que enfrenta desafios no amor e na vida. Ao se apaixonar por Ryle Kincaid, um neurocirurgião encantador, ela precisa lidar com segredos do passado e decisões difíceis.",
+    "estoque": "20",
+    "preco": "54.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "É Assim Que Acaba"
+},
+
+{
+    "id_genero": "Fantasia Jovem Adulta",
+    "id_autor": "Colleen Hoover",
+    "foto": "/static/image/livros/As Mil Partes do Meu Cooração.jpg",
+    "sinopse": "As Mil Partes do Meu Coração, de Colleen Hoover, é um drama emocionante sobre Merit Voss, uma jovem que lida com segredos familiares, problemas emocionais e a necessidade de encontrar sua própria voz.",
+    "estoque": "15",
+    "preco": "49.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "As Mil Partes do Meu Coração"
+},
+
+{
+    "id_genero": "Fantasia Jovem Adulta",
+    "id_autor": "Colleen Hoover",
+    "foto": "/static/image/livros/Uma Segunda Chance.jpg",
+    "sinopse": "Uma Segunda Chance, de Colleen Hoover, conta a história de Kenna Rowan, que após anos na prisão tenta reconstruir sua vida e se conectar com sua filha, enfrentando desafios e julgamentos da sociedade.",
+    "estoque": "18",
+    "preco": "52.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Uma Segunda Chance"
+},
+
+{
+    "id_genero": "Fantasia Jovem Adulta",
+    "id_autor": "Colleen Hoover",
+    "foto": "/static/image/livros/Verity.jpg",
+    "sinopse": "Verity, de Colleen Hoover, é um thriller psicológico envolvente. Lowen Ashleigh, uma escritora, é contratada para terminar os livros de Verity Crawford e descobre segredos sombrios nos manuscritos da autora.",
+    "estoque": "22",
+    "preco": "59.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Verity"
+},
+
+{
+    "id_genero": "Fantasia Jovem Adulta",
+    "id_autor": "Colleen Hoover",
+    "foto": "/static/image/livros/Até o Verão Terminar.jpg",
+    "sinopse": "Até o Verão Terminar, de Colleen Hoover, é uma história sobre amor e superação, onde os protagonistas enfrentam desafios e segredos enquanto tentam aproveitar ao máximo um verão inesquecível.",
+    "estoque": "17",
+    "preco": "44.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Até o Verão Terminar"
+},
+
+{
+    "id_genero": "Fantasia",
+    "id_autor": "Victoria Aveyard",
+    "foto": "/static/image/livros/A Rainha Vermelha.jpg",
+    "sinopse": "A Rainha Vermelha, de Victoria Aveyard, apresenta Mare Barrow, uma jovem vermelha em um mundo dividido pela cor do sangue. Quando descobre ter poderes especiais, é forçada a viver entre a elite prateada, tornando-se peça central em uma perigosa disputa pelo poder.",
+    "estoque": "30",
+    "preco": "59.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Rainha Vermelha"
+},
+{
+    "id_genero": "Fantasia",
+    "id_autor": "Victoria Aveyard",
+    "foto": "/static/image/livros/Espada de Vidro.jpg",
+    "sinopse": "Espada de Vidro continua a saga de Mare Barrow, que agora lidera a busca por outros como ela: vermelhos com poderes de prata. Enquanto tenta salvar os seus, Mare enfrenta traições, perdas e um crescente peso em seus ombros como símbolo de resistência.",
+    "estoque": "28",
+    "preco": "64.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "Espada de Vidro"
+},
+{
+    "id_genero": "Fantasia",
+    "id_autor": "Victoria Aveyard",
+    "foto": "/static/image/livros/A Prisão do REi.jpg",
+    "sinopse": "Em A Prisão do Rei, Mare Barrow é capturada por Maven, o rei prateado obcecado por ela. Encarcerada e sem seus poderes, Mare precisa encontrar força interior para resistir e manter viva a esperança de liberdade para seu povo.",
+    "estoque": "24",
+    "preco": "69.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Prisão do Rei"
+},
+{
+    "id_genero": "Fantasia",
+    "id_autor": "Victoria Aveyard",
+    "foto": "/static/image/livros/Tempestade de Guerra.jpg",
+    "sinopse": "Tempestade de Guerra é o desfecho épico da série. Mare Barrow precisa unir forças com antigos aliados e enfrentar decisões difíceis em meio à guerra por igualdade entre vermelhos e prateados. Um confronto final se aproxima, e o destino do reino será decidido.",
+    "estoque": "21",
+    "preco": "74.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "Tempestade de Guerra"
+},
+{
+    "id_genero": "Fantasia",
+    "id_autor": "Victoria Aveyard",
+    "foto": "/static/image/livros/Trono Destruido.jpg",
+    "sinopse": "Trono Destroçado é uma coletânea de contos do universo de A Rainha Vermelha, trazendo histórias de personagens importantes e eventos que expandem o mundo criado por Victoria Aveyard. Um complemento indispensável para os fãs da saga.",
+    "estoque": "20",
+    "preco": "62.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "Trono Destroçado"
+},
+{
+    "id_genero": "Romance de Época",
+    "id_autor": "Jane Austen",
+    "foto": "/static/image/livros/Orgulho e Preconceito.jpg",
+    "sinopse": "Orgulho e Preconceito, de Jane Austen, é um clássico da literatura inglesa. A história acompanha Elizabeth Bennet e Mr. Darcy em um romance marcado por orgulho, mal-entendidos e transformações pessoais.",
+    "estoque": "30",
+    "preco": "49.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "Orgulho e Preconceito"
+},
+
+{
+    "id_genero": "Romance de Época",
+    "id_autor": "Jane Austen",
+    "foto": "/static/image/livros/Persuasão.jpg",
+    "sinopse": "Persuasão, de Jane Austen, é um romance que narra a história de Anne Elliot, que reencontra seu antigo amor, o capitão Wentworth, anos após ter sido persuadida a rejeitá-lo. Agora, ela precisa lidar com suas emoções e uma segunda chance no amor.",
+    "estoque": "28",
+    "preco": "47.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "Persuasão"
+},
+
+{
+    "id_genero": "Romance de Época",
+    "id_autor": "Jane Austen",
+    "foto": "/static/image/livros/Razão e Sensibilidade.jpg",
+    "sinopse": "Razão e Sensibilidade, de Jane Austen, acompanha as irmãs Elinor e Marianne Dashwood, que enfrentam dificuldades financeiras e emocionais enquanto buscam o amor verdadeiro em uma sociedade rígida e cheia de convenções.",
+    "estoque": "27",
+    "preco": "48.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "Razão e Sensibilidade"
+},
+
+{
+    "id_genero": "Romance de Época",
+    "id_autor": "Jane Austen",
+    "foto": "/static/image/livros/Emma.jpg",
+    "sinopse": "Emma, de Jane Austen, é a história de uma jovem rica e inteligente que se diverte tentando fazer casamentos entre seus amigos, mas acaba percebendo que o amor pode ser mais complicado do que imaginava.",
+    "estoque": "26",
+    "preco": "46.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "Emma"
+},
+
+{
+    "id_genero": "Romance de Época",
+    "id_autor": "Jane Austen",
+    "foto": "/static/image/livros/A Abadia de Northanger.jpg",
+    "sinopse": "A Abadia de Northanger, de Jane Austen, é uma sátira dos romances góticos, contando a história de Catherine Morland, uma jovem ingênua que vive suas fantasias literárias em um mundo onde a realidade é bem diferente dos livros que lê.",
+    "estoque": "25",
+    "preco": "45.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Abadia de Northanger"
+},
+
+{
+
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Lynn Painter",
+    "foto": "/static/image/livros/Mil Vezes Amor.jpg",
+    "sinopse": "Mil Vezes Amor, de Lynn Painter, é uma história romântica e emocionante que acompanha a jornada de uma jovem descobrindo o verdadeiro significado do amor e das escolhas que moldam sua vida.",
+    "estoque": "15",
+    "preco": "39.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Mil Vezes Amor"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Lynn Painter",
+    "foto": "/static/image/livros/Melhor do Que Nos Filmes.jpg",
+    "sinopse": "Melhor do Que Nos Filmes, de Lynn Painter, é uma comédia romântica jovem adulta que acompanha Liz Buxbaum em sua tentativa de conquistar o garoto dos seus sonhos, enquanto descobre que o amor pode ser mais inesperado do que nos filmes.",
+    "estoque": "18",
+    "preco": "42.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Melhor do Que Nos Filmes"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Lynn Painter",
+    "foto": "/static/image/livros/Não é como nos filmes.jpg",
+    "sinopse": "Não é Como Nos Filmes, de Lynn Painter, continua a história de Liz Buxbaum e sua busca pelo final feliz perfeito, explorando reviravoltas e surpresas na vida amorosa da protagonista.",
+    "estoque": "17",
+    "preco": "41.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Não é Como Nos Filmes"
+},
+
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Lynn Painter",
+    "foto": "/static/image/livros/Apostando no Amor.jpg",
+    "sinopse": "Apostando no Amor, de Lynn Painter, é uma história envolvente sobre duas pessoas cujas vidas se cruzam por acaso, levando a uma jornada inesperada de autodescoberta e romance.",
+    "estoque": "14",
+    "preco": "38.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Apostando no Amor"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Lynn Painter",
+    "foto": "/static/image/livros/Amor Por Engano.jpg",
+    "sinopse": "Amor Por Engano, de Lynn Painter, é um romance contemporâneo cativante que mistura comédia e emoção ao contar a história de um casal que se vê preso em um relacionamento inesperado.",
+    "estoque": "16",
+    "preco": "44.90",
+    "formato": "Físico",
+    "tipo": "Capa Comum",
+    "titulo": "Amor Por Engano"
+},
+
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Rick Riordan",
+    "foto": "/static/image/livros/O Herói Perdido.jpg",
+    "sinopse": "O Herói Perdido, de Rick Riordan, é o primeiro livro da série Os Heróis do Olimpo. A história segue novos semideuses, Jason, Piper e Leo, em uma missão para salvar Hera e descobrir um novo perigo ameaçando o Olimpo.",
+    "estoque": "22",
+    "preco": "59.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "O Herói Perdido"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Rick Riordan",
+    "foto": "/static/image/livros/O Filho de Netuno.jpg",
+    "sinopse": "O Filho de Netuno, de Rick Riordan, acompanha Percy Jackson enquanto ele acorda sem memória em um novo acampamento de semideuses romanos e embarca em uma perigosa missão para impedir uma guerra entre deuses e gigantes.",
+    "estoque": "20",
+    "preco": "62.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "O Filho de Netuno"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Rick Riordan",
+    "foto": "/static/image/livros/A Marca de Atena.jpg",
+    "sinopse": "A Marca de Atena, de Rick Riordan, reúne os semideuses gregos e romanos em uma missão para evitar uma catástrofe e encontrar a estátua de Atena Partenos, essencial para unir os dois acampamentos.",
+    "estoque": "18",
+    "preco": "64.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Marca de Atena"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Rick Riordan",
+    "foto": "/static/image/livros/A Casa de Hades.jpg",
+    "sinopse": "A Casa de Hades, de Rick Riordan, continua a jornada de Percy e Annabeth enquanto enfrentam desafios no Tártaro, enquanto o resto do grupo tenta alcançar as Portas da Morte para impedir o retorno dos Titãs.",
+    "estoque": "19",
+    "preco": "66.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Casa de Hades"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "Rick Riordan",
+    "foto": "/static/image/livros/O Sangue do Olimpo.jpg",
+    "sinopse": "O Sangue do Olimpo, de Rick Riordan, é o emocionante final da série Os Heróis do Olimpo, onde os semideuses enfrentam a deusa Gaia e seus gigantes em uma batalha para salvar o mundo.",
+    "estoque": "21",
+    "preco": "69.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "O Sangue do Olimpo"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "George R.R. Martin",
+    "foto": "/static/image/livros/A Guerra dos Tronos.jpg",
+    "sinopse": "A Guerra dos Tronos, de George R.R. Martin, é o primeiro livro da série As Crônicas de Gelo e Fogo. A história apresenta a luta pelo Trono de Ferro entre várias casas nobres de Westeros, em um mundo de intrigas, traições e fantasia épica.",
+    "estoque": "25",
+    "preco": "79.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Guerra dos Tronos"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "George R.R. Martin",
+    "foto": "/static/image/livros/A Fúria dos Reis.jpg",
+    "sinopse": "A Fúria dos Reis, de George R.R. Martin, continua a luta pelo poder em Westeros, enquanto reis autoproclamados se enfrentam e a magia ressurge no mundo.",
+    "estoque": "23",
+    "preco": "84.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Fúria dos Reis"
+},
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "George R.R. Martin",
+    "foto": "/static/image/livros/A Tromenta dos Reis.jpg",
+    "sinopse": "A Tormenta de Espadas, de George R.R. Martin, traz reviravoltas chocantes, batalhas épicas e traições inesquecíveis na luta pelo Trono de Ferro.",
+    "estoque": "22",
+    "preco": "89.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Tormenta de Espadas"
+},
+
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "George R.R. Martin",
+    "foto": "/static/image/livros/O Festim dos Corvos.jpg",
+    "sinopse": "O Festim dos Corvos mostra os escombros deixados pela guerra enquanto novos jogadores entram no jogo político de Westeros, onde cada passo pode ser mortal.",
+    "estoque": "19",
+    "preco": "87.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "O Festim dos Corvos"
+},
+
+{
+    "id_genero": "Ficção para Jovens",
+    "id_autor": "George R.R. Martin",
+    "foto": "/static/image/livros/A Dança dos Dragões.jpg",
+    "sinopse": "Em A Dança dos Dragões, alianças frágeis e antigos segredos moldam o destino dos Sete Reinos enquanto dragões ameaçam incendiar o mundo.",
+    "estoque": "24",
+    "preco": "92.90",
+    "formato": "Físico",
+    "tipo": "Capa Dura",
+    "titulo": "A Dança dos Dragões"
+}
+]

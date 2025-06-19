@@ -1,0 +1,4 @@
+#database.db (banco de dados sqlite)
+
+backend/app/db/database.db
+.env
