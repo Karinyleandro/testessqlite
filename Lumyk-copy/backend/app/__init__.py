@@ -16,6 +16,7 @@ from backend.app.routes.pedido_routes import api as pedido
 from backend.app.routes.assinatura_routes import api as assinatura
 from backend.app.routes.itemCarrinho_routes import api as itemCarrinho
 from backend.app.routes.itemPedido_routes import api as itemPedido
+from backend.app.routes.health_routes import api as health_ns
 from flask_mail import Mail
 from backend.app.models import *
 from dotenv import load_dotenv
@@ -101,19 +102,8 @@ def create_app():
     api.add_namespace(assinatura, path='/assinaturas')
     api.add_namespace(itemCarrinho, path='/item-carrinho')
     api.add_namespace(itemPedido, path='/item-pedido')
+    api.add_namespace(health_ns, path='')
     
-    
-        
-    from flask_restx import Namespace, Resource
-
-    # Namespace vazio só pra raiz
-    health_ns = Namespace('', description='Health check')
-
-    @app.route("/", methods=["GET"])
-    def health_check():
-        return {"mensagem": "Backend online!"}, 200
-
-
     print("\n--- Rotas registradas: ---")
     for rule in app.url_map.iter_rules():
         print(rule)
