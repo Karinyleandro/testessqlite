@@ -1,8 +1,8 @@
 from flask_restx import Namespace, Resource
 
-health = Namespace('', description='Health check (root)')
+api = Namespace('health', description='Health check')
 
-@health.route('/')
+@api.route('/')
 class HealthCheck(Resource):
     def get(self):
-        return {'mensagem': 'Backend online!'}, 200
+        return {"mensagem": "Backend online!"}, 200
