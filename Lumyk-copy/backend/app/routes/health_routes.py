@@ -1,13 +1,13 @@
 from flask_restx import Namespace, Resource
 
-api = Namespace('health', description='Health check')
+api = Namespace('', description='Health check')  # deixa o path vazio mesmo
 
 @api.route('/')
-class RootHealthCheck(Resource):
+class RootHealth(Resource):
     def get(self):
-        return {"mensagem": "Backend online! [root]"}, 200
+        return {"mensagem": "Backend online!"}, 200
 
 @api.route('/health')
-class HealthCheck(Resource):
+class Health(Resource):
     def get(self):
-        return {"mensagem": "Backend online! [health]"}, 200
+        return {"mensagem": "Backend online!"}, 200

@@ -102,7 +102,7 @@ def create_app():
     api.add_namespace(assinatura, path='/assinaturas')
     api.add_namespace(itemCarrinho, path='/item-carrinho')
     api.add_namespace(itemPedido, path='/item-pedido')
-    api.add_namespace(health_ns, path='/health')
+    api.add_namespace(health_ns, path='/')  # aplica as rotas '/' e '/health'
 
     
     print("\n--- Rotas registradas: ---")
